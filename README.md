@@ -1,2 +1,2 @@
-# Hangman
-Python project
+#Welcome to my python
+#Hangman
