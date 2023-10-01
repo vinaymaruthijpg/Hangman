@@ -1,2 +1,2 @@
-#Welcome to my python
+#Welcome to my python project
 #Hangman
